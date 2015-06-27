@@ -187,4 +187,3 @@ var custom_autocomplete = function(ref, searchingLoaderRef) {
     productList : productList
   }
 };
-custom_autocomplete('#search_text_box', '#searchingLoader');
